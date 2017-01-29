@@ -16,4 +16,5 @@ A6-Sensitive Data Exposure.
 Unprotected password should be protected by salting them into a database.
 
 A7-Missing Function Level Access Control.
-form.html can be accessed via URL.
+Login page can be skipped and sign-up page can be accessed via URL: http://localhost:8080/form
+Access control should be coded and put in place.
