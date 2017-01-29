@@ -2,7 +2,8 @@
 Cyber Security Base - Course Project I
 
 A1-Injection
-The project is vulnerable to injections. Database can be written into as prepared statements are not used.
+The project is vulnerable to injections. 
+Database can be written into as prepared statements are not used.
 
 A2-Broken Authentication and Session Management
 User can log in but resources have not been protected on a sufficient level.
